@@ -74,7 +74,7 @@ QuantumNex/
 
 <br><br>
 
-<p align="center"><img src="https://imgur.com/dY2gzqa.png" width="500"></p>
+<p align="center"><img src="https://imgur.com/MvROR3r.png" width="500"></p>
 <p align="center" style="font-size:10px; color:gray;">
 <em>Figure 2. Homepage View After Entering Name</em>
 </p>
