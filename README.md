@@ -2,112 +2,119 @@
 
 # 🌐 QuantumNex Technologies - Company Profile Website
 
-> Selamat datang di repositori resmi website profil perusahaan **QuantumNex Technologies**. Website ini dibangun dengan tampilan modern dan profesional menggunakan **HTML5**, **Tailwind CSS**, dan **Vanilla JavaScript** untuk menampilkan informasi perusahaan serta formulir kontak yang interaktif.
+> Welcome to the official repository of **QuantumNex Technologies** company profile website. This site features a modern and professional design using **HTML5**, **Tailwind CSS**, and **Vanilla JavaScript** to display company information and an interactive contact form.
 
 ---
 
-## 📌 Fitur
+## 📌 Features
 
-✨ **Desain Bersih & Profesional**  
-Tampilan elegan dan futuristik yang mencerminkan semangat inovasi dan kemajuan teknologi.
+✨ **Clean & Professional Design**  
+A futuristic interface reflecting innovation and tech-driven spirit.
 
-🚀 **Navigasi Halaman**  
-Navigasi mudah dengan tautan menuju:
-- `Home`: Halaman sambutan dengan ucapan selamat datang yang dinamis
-- `Our Profile`: Informasi tentang visi dan misi perusahaan
-- `Contact`: Formulir pesan interaktif untuk pengunjung
+🚀 **Page Navigation**  
+Navigate easily between:
+- `Home`: A dynamic welcome section
+- `Our Profile`: Company's vision and mission
+- `Contact`: Interactive message form
 
-💬 **Formulir "Message Us" Interaktif**  
-Pengguna dapat mengisi nama, email, nomor telepon, dan pesan. Setelah dikirim, akan muncul alert ucapan terima kasih dengan nama pengguna.
+💬 **Interactive “Message Us” Form**  
+Users can submit their name, email, phone, and message. A thank-you alert will display with their name.
 
-⚡ **Update Nama Guest Secara Real-Time**  
-Teks sambutan di halaman home akan berubah sesuai nama yang diketik pengguna pada formulir **Message Us**.
+⚡ **Real-Time Guest Name Update**  
+The homepage greeting dynamically updates based on the name typed in the form.
 
-🌌 **Layout Responsif & Background Estetik**  
-Latar belakang fullscreen dengan efek blur dan transisi hover untuk pengalaman visual yang modern.
+🌌 **Responsive Layout & Aesthetic Background**  
+Full-screen background with blur effects and hover transitions for a modern visual feel.
 
 ---
 
-## 📁 Struktur Folder
+## 📁 Folder Structure
 
 ```
 QuantumNex/
-├── index.html               # Halaman utama
+├── index.html               # Main page
 ├── css/
-│   └── style.css            # File gaya kustom
+│   └── style.css            # Custom styles
 ├── js/
-│   └── script.js            # Logika form dan interaksi DOM
+│   └── script.js            # Form logic and DOM interactions
 └── img/
-    ├── Website Background.jpg  # Gambar latar website
-    └── Startup Team.jpg        # Gambar hero/banner
+    ├── Website Background.jpg  # Background image
+    └── Startup Team.jpg        # Hero banner
 ```
 
 ---
 
-## 🚀 Cara Menjalankan
+## 🚀 How to Run
 
-1. **Clone repositori ini**
+1. **Clone this repository**
    ```bash
    git clone https://github.com/yourusername/quantumnex-profile.git
    cd quantumnex-profile
    ```
 
-2. **Buka di browser**
-   Cukup klik dua kali `index.html` atau buka melalui Live Server di VSCode.
+2. **Open in your browser**  
+   Open `index.html` directly or use Live Server in VSCode.
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Technologies Used
 
-- **HTML5**
-- **Tailwind CSS** (melalui CDN)
-- **Vanilla JavaScript**
+- HTML5  
+- Tailwind CSS (via CDN)  
+- Vanilla JavaScript
 
 ---
 
-## 📸 Preview
+## 📸 Website Preview
 
 <p align="center"><img src="https://imgur.com/dY2gzqa.png" width="500"></p>
 <p align="center" style="font-size:10px; color:gray;">
-<em> Gambar 1. Homepage View </em>
+<em>Figure 1. Homepage View</em>
+</p>
+
+<br><br>
+
+<p align="center"><img src="https://imgur.com/dY2gzqa.png" width="500"></p>
+<p align="center" style="font-size:10px; color:gray;">
+<em>Figure 2. Homepage View After Entering Name</em>
 </p>
 
 <br><br>
 
 <p align="center"><img src="https://imgur.com/sqPhTcJ.png" width="500"></p>
 <p align="center" style="font-size:10px; color:gray;">
-<em> Gambar 2. Our Profile View </em>
+<em>Figure 3. Our Profile View</em>
 </p>
 
 <br><br>
 
 <p align="center"><img src="https://imgur.com/kipFWig.png" width="500"></p>
 <p align="center" style="font-size:10px; color:gray;">
-<em> Gambar 3. Contact View </em>
+<em>Figure 4. Contact View</em>
 </p>
 
 <br><br>
 
 <p align="center"><img src="https://imgur.com/ODkcDVA.png" width="500"></p>
 <p align="center" style="font-size:10px; color:gray;">
-<em> Gambar 4. Message Sent Alert </em>
+<em>Figure 5. Message Sent Alert</em>
 </p>
 
 ---
 
-## 📬 Kontak
+## 📬 Contact
 
-Silakan gunakan form di halaman `Contact` untuk mengirimkan pesan simulasi.  
-(⚠️ Catatan: belum terhubung ke backend atau email service.)
-
----
-
-## 📄 Lisensi
-
-Proyek ini menggunakan lisensi [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+Use the `Contact` page to simulate sending a message.  
+⚠️ Note: This is a front-end demo only. No backend/email integration included.
 
 ---
 
-### 💡 Dibuat dengan semangat oleh [Kristian Abel Baptista]
+## 📄 License
+
+This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+---
+
+### 💡 Created with passion by [Kristian Abel Baptista]
 
 > "Empowering digital transformation through design and code."
