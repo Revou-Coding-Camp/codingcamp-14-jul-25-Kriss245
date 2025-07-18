@@ -67,28 +67,28 @@ QuantumNex/
 
 ## 📸 Preview
 
-<p align="center"><img src="https://imgur.com/dY2gzqa.png" width="300"></p>
+<p align="center"><img src="https://imgur.com/dY2gzqa.png" width="500"></p>
 <p align="center" style="font-size:10px; color:gray;">
 <em> Gambar 1. Homepage View </em>
 </p>
 
 <br><br>
 
-<p align="center"><img src="https://imgur.com/sqPhTcJ.png" width="300"></p>
+<p align="center"><img src="https://imgur.com/sqPhTcJ.png" width="500"></p>
 <p align="center" style="font-size:10px; color:gray;">
 <em> Gambar 2. Our Profile View </em>
 </p>
 
 <br><br>
 
-<p align="center"><img src="https://imgur.com/kipFWig.png" width="300"></p>
+<p align="center"><img src="https://imgur.com/kipFWig.png" width="500"></p>
 <p align="center" style="font-size:10px; color:gray;">
 <em> Gambar 3. Contact View </em>
 </p>
 
 <br><br>
 
-<p align="center"><img src="https://imgur.com/ODkcDVA.png" width="300"></p>
+<p align="center"><img src="https://imgur.com/ODkcDVA.png" width="500"></p>
 <p align="center" style="font-size:10px; color:gray;">
 <em> Gambar 4. Message Sent Alert </em>
 </p>
