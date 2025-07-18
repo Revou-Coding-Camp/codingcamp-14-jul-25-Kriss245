@@ -20,8 +20,8 @@ Navigasi mudah dengan tautan menuju:
 💬 **Formulir "Message Us" Interaktif**  
 Pengguna dapat mengisi nama, email, nomor telepon, dan pesan. Setelah dikirim, akan muncul alert ucapan terima kasih dengan nama pengguna.
 
-⚡ **Update Nama Secara Real-Time**  
-Teks sambutan di halaman home akan berubah sesuai nama yang diketik pengguna pada formulir **message us**.
+⚡ **Update Nama Guest Secara Real-Time**  
+Teks sambutan di halaman home akan berubah sesuai nama yang diketik pengguna pada formulir **Message Us**.
 
 🌌 **Layout Responsif & Background Estetik**  
 Latar belakang fullscreen dengan efek blur dan transisi hover untuk pengalaman visual yang modern.
