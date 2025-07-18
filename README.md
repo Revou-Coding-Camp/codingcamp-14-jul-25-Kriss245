@@ -1,6 +1,6 @@
 # 🌐 QuantumNex Technologies - Company Profile Website
 
-<p align="center"><img src="https://imgur.com/q4epkvd.png" width="500"></p>
+<p align="center"><img src="https://imgur.com/0QxaLw2.png" width="500"></p>
 
 > Selamat datang di repositori resmi website profil perusahaan **QuantumNex Technologies**. Website ini dibangun dengan tampilan modern dan profesional menggunakan **HTML5**, **Tailwind CSS**, dan **Vanilla JavaScript** untuk menampilkan informasi perusahaan serta formulir kontak yang interaktif.
 
@@ -21,7 +21,7 @@ Navigasi mudah dengan tautan menuju:
 Pengguna dapat mengisi nama, email, nomor telepon, dan pesan. Setelah dikirim, akan muncul alert ucapan terima kasih dengan nama pengguna.
 
 ⚡ **Update Nama Secara Real-Time**  
-Teks sambutan di halaman home akan berubah sesuai nama yang diketik pengguna.
+Teks sambutan di halaman home akan berubah sesuai nama yang diketik pengguna pada formulir **message us**.
 
 🌌 **Layout Responsif & Background Estetik**  
 Latar belakang fullscreen dengan efek blur dan transisi hover untuk pengalaman visual yang modern.
@@ -67,7 +67,31 @@ QuantumNex/
 
 ## 📸 Preview
 
-![Preview Website](img/Startup%20Team.jpg)
+<p align="center"><img src="https://imgur.com/dY2gzqa.png" width="300"></p>
+<p align="center" style="font-size:10px; color:gray;">
+<em> Gambar 1. Homepage View </em>
+</p>
+
+<br><br>
+
+<p align="center"><img src="https://imgur.com/sqPhTcJ.png" width="300"></p>
+<p align="center" style="font-size:10px; color:gray;">
+<em> Gambar 2. Our Profile View </em>
+</p>
+
+<br><br>
+
+<p align="center"><img src="https://imgur.com/kipFWig.png" width="300"></p>
+<p align="center" style="font-size:10px; color:gray;">
+<em> Gambar 3. Contact View </em>
+</p>
+
+<br><br>
+
+<p align="center"><img src="https://imgur.com/ODkcDVA.png" width="300"></p>
+<p align="center" style="font-size:10px; color:gray;">
+<em> Gambar 4. Message Sent Alert </em>
+</p>
 
 ---
 
