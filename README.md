@@ -1,6 +1,6 @@
-# 🌐 QuantumNex Technologies - Company Profile Website
-
 <p align="center"><img src="https://imgur.com/0QxaLw2.png" width="500"></p>
+
+# 🌐 QuantumNex Technologies - Company Profile Website
 
 > Selamat datang di repositori resmi website profil perusahaan **QuantumNex Technologies**. Website ini dibangun dengan tampilan modern dan profesional menggunakan **HTML5**, **Tailwind CSS**, dan **Vanilla JavaScript** untuk menampilkan informasi perusahaan serta formulir kontak yang interaktif.
 
